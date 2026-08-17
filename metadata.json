@@ -1,0 +1,6 @@
+{
+  "name": "Bluemoon",
+  "description": "Bluemoon - An ultra-aesthetic music player with dynamic ambient visualizers, rotating vinyl player, synchronized lyrics, generative sound engine, mood stations, and audio equalizer.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
